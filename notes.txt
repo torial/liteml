@@ -1,0 +1,3 @@
+k-Nearest Neighbor Classifier
+find the k nearest images, have them vote on the label
+
