@@ -5,6 +5,9 @@ Starting w/ Karpathy's micrograd implementation, with plans to expand for perfor
 Initial check-in is based on [Karpathy's micrograd](https://github.com/karpathy/micrograd), but with performance improvements cutting run-time in half.
 
 ---
+## Commit 4
+Added decision tree and simple XGBoost implementations.  Also added initial histogramming support.
+
 
 ## Commit 3
 The commit details below.
