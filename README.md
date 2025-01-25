@@ -1,13 +1,10 @@
 # liteml
 Starting w/ Karpathy's micrograd implementation, with plans to expand for performance and features.
 
-----
-Initial check-in is based on [Karpathy's micrograd](https://github.com/karpathy/micrograd), but with performance improvements cutting run-time in half.
-
 ---
 ## Commit 4
 Added decision tree and simple XGBoost implementations.  Also added initial histogramming support.
-
+[Trees Readme](trees/README.md)
 
 ## Commit 3
 The commit details below.
@@ -28,3 +25,6 @@ Original profiled time on my computer: 111.7 seconds.
 7. ~~converting other objects to slots (no tangible benefit)~~
 8. using currying (partial) cut 15 seconds off (68.8 seconds)
 9. pushed build_topo to the top, cut 3.3 seconds (65.5 seconds)
+
+----
+Initial check-in is based on the video on making [Karpathy's micrograd](https://github.com/karpathy/micrograd), but with performance improvements cutting run-time in half.
